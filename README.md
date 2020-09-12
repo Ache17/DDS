@@ -7,4 +7,4 @@ DAT - D11 <br>
 CLK - D13 <br>
 
 ![](measurements/DS1Z_QuickPrint2.png)
-![](measurements/DS1Z_QuickPrint1.png)
+![](measurements/DS1Z_QuickPrint3.png)
